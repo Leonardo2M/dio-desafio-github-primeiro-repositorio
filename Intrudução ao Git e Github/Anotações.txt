@@ -1,0 +1,16 @@
+Aprendendo sobre Git/Github
+
+ - Git bash é um terminal usado para otimizar o uso do Git.
+ - download em: https://git-scm.com
+ - Blobs > Trees > Commits
+ - Alguns comando básicos:
+   * git init = inicializa repositório.
+   * git add * = coloca o commit na área de stage.
+   * git commit -m "" = criar commit e com tag -m passar uma mensagem.	
+   * git status = ver status do commit.
+   * git remote add origin = cria commit no Github.
+   * git remote -v = meus repositórios cadastrados.
+   * git push origin master = manda commit para o repositório.
+   * git pull = puxa o commit do repositório.	
+
+ - Github é um repositório online
